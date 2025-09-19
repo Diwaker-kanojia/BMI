@@ -14,7 +14,6 @@ This tool allows users to calculate their BMI based on weight (kg) and height (c
 
 ## 📷 Preview  
 ![BMI Calculator Screenshot](assets/userInterface.png)  
-*(Replace `screenshot.png` with your actual file name)*  
 
 ## 🌐<a href="https://bmi-diwaker.netlify.app/">Live</a>
 
@@ -35,4 +34,4 @@ This tool allows users to calculate their BMI based on weight (kg) and height (c
 
 
 ## 
-<div align="center" ><h3>Made with ❤️ by Diwaker</h3></div> 
+<div align="center" ><h4>Made with ❤️ by Diwaker</h4></div> 
